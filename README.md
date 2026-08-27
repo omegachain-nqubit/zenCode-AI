@@ -394,7 +394,7 @@ GitHub repository:
 https://github.com/omegachain-nqubit/zenCode-AI
 <p align="center">
   <img 
-    src="assets/zencode-ai-interface.jpg" 
+    src="assets/file_00000000323c8243906319717d48b436.png" 
     alt="ZenCode AI — Elite Intelligence Platform"
     width="900"
   >
