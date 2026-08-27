@@ -392,7 +392,13 @@ https://zen-code-ai-093e5b13.base44.app
 GitHub repository:
 
 https://github.com/omegachain-nqubit/zenCode-AI
-
+<p align="center">
+  <img 
+    src="assets/zencode-ai-interface.jpg" 
+    alt="ZenCode AI — Elite Intelligence Platform"
+    width="900"
+  >
+</p>
 ---
 
 zenCode AI
