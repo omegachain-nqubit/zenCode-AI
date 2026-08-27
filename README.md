@@ -12,6 +12,21 @@ AI-powered development platform.
 
 zenCode AI is an AI-powered platform designed to assist users
 in software development and intelligent application creation.
+artificial-intelligence
+ai
+generative-ai
+ai-development
+ai-coding
+ai-app-builder
+ai-application-development
+software-development
+developer-tools
+coding-assistant
+application-development
+rapid-prototyping
+intelligent-applications
+ai-powered
+web-application
 
 ## Access
 
